@@ -28,4 +28,6 @@ Project List
 - Personality Test Calculator (Completed on 8/2/2024): The Personality Test Calculator project is a program that analyzes the results of a personality test based on answers stored in a text file. The text file contains the names of the individuals who took the test and their corresponding answers. The program processes this data, categorizes the answers, and calculates the percentage of 'B' answer
   
 - Rational Number (Completed on 8/5/2024): The Rational Number project involves creating a Python class that serves as a template for creating and working with rational numbers (fractions). This class provides methods for performing basic arithmetic operations—addition, subtraction, multiplication, and division—on rational number objects.
+ 
+- Baby Names (Completed on 8/11/2024): The Baby Names program allows users to input a name and search for its popularity over certain years. The program reads from a file containing a list of names along with their popularity rankings in various years. Upon finding the name, the program prints the popularity information and generates an output file named after the user input (e.g., input_name.txt).
   
